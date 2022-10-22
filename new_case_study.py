@@ -13,7 +13,7 @@ import folium
 # In[240]:
 
 
-df = pd.read_table(r'Gorgonichthys_1_suite3_supercombo_log.las',delim_whitespace = True)
+df = pd.read_table(r'Gorgonichthys_1_suite3_supercombo_log_sb.las',delim_whitespace = True)
 df.columns
 
 
