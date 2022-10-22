@@ -4,8 +4,9 @@ Well logging is one of the best mathod to get subsurface data continuly with a r
 Well logging is one of the efficient method to measure petrophysical property of geology\
 I have used well logging data to interpret about the subsurface lithology\
 For oil and gas industry porosity and permeability of the subsurface rock\
-Porosity help rock to capture Hydrocarbon (Oil and Gas)\
-Permeability help fluid to transmit through the rock\
+Porosity help rock to store Hydrocarbon (Oil and Gas)\
+Permeability help fluid to transmit through the rock that can make a reservoir\
+Mostly reservoir are made of Sandstone
 
 
 
